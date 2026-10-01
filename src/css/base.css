@@ -12,3 +12,7 @@ body {
   color: #000000;
   background-color: #fbf9f1;
 }
+
+body.scroll-locked {
+  overflow: hidden;
+}
